@@ -16,3 +16,4 @@ while game:
             game = False
 
     display.update()
+#novy kod
